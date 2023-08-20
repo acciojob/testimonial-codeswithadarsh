@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+body {
+
+   background-color: #c7c1c1;
+  }
+
+  
+  h1{
+    margin: 50px;
+  }
+
+  .card{
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 50px;
+    margin-top: -30px;
+    border-radius: 10px;
+    border: 1px solid black;
+  }
+
+  #auth{
+    font-style: italic;
+    text-align: right;
+  }
