@@ -1,23 +1,17 @@
-body {
-
-   background-color: #c7c1c1;
-  }
-
-  
-  h1{
-    margin: 50px;
-  }
-
-  .card{
-    background-color: #f5f5f5;
-    padding: 10px;
-    margin: 50px;
-    margin-top: -30px;
-    border-radius: 10px;
-    border: 1px solid black;
-  }
-
-  .auth{
-    font-style: italic;
-    text-align: right;
-  }
+/*  your css code here. If applicable */
+.main{
+	background-color: #f5f5f5;
+	padding:20px
+}
+.testimonial{
+/* 	display:flex; */
+	margin:10px;
+	padding:8px;
+	font-size:10px;
+	justify-content:space-between;
+	background-color:white;
+}
+.signature{
+	text-align:right;
+	font-style:italic;
+}
